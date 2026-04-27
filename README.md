@@ -12,7 +12,7 @@ Notebook source : TP_Arbre_Decision (1).ipynb
 ---
 
 ## 2) Jeu de donnees
-Le projet utilise le fichier : creditcard.csv
+Le projet utilise le fichier : Fraude Detection Dataset.csv
 
 Caracteristiques principales :
 - 284 807 transactions
@@ -123,7 +123,7 @@ Ameliorations recommandees :
 
 ## 8) Mini guide d'execution
 1. Ouvrir le notebook TP_Arbre_Decision (1).ipynb.
-2. Verifier que creditcard.csv est present dans le meme dossier.
+2. Verifier que Fraude Detection Dataset.csv est present dans le meme dossier.
 3. Installer les dependances si necessaire :
    - pandas, matplotlib, seaborn, scikit-learn, imbalanced-learn
 4. Executer les cellules dans l'ordre.
@@ -134,6 +134,5 @@ Ameliorations recommandees :
 ## 9) Livrables du dossier
 - Notebook principal : TP_Arbre_Decision (1).ipynb
 - Dataset : creditcard.csv
-- Documentation (ce fichier) : README_TP_Arbre_Decision_CreditCard.md
+- Documentation
 
-Ce README sert de resume operationnel et de mini documentation pour comprendre rapidement le travail realise et reutiliser la demarche sur un projet similaire.
